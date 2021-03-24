@@ -60,3 +60,36 @@ div:nth-child(9){
       background-color: rgba(40, 75, 70, 0.404);
   }
 }
+
+@media ( max-width:992px) {
+  div:nth-child(1){
+    background-color: rgba(99, 86, 86, 0.411);
+}
+div {
+    border: black solid 1px;
+}
+div:nth-child(2){
+    background-color: rgba(49, 49, 134, 0.404);
+}
+div:nth-child(3){
+    background-color: rgba(111, 163, 123, 0.411);
+}
+div:nth-child(4){
+    background-color: rgba(55, 24, 61, 0.418);
+}
+div:nth-child(5){
+    background-color: rgba(105, 50, 69, 0.425);
+}
+div:nth-child(6){
+    background-color: rgba(73, 73, 10, 0.418);
+}
+div:nth-child(7){
+    background-color: rgba(34, 53, 42, 0.411);
+}
+div:nth-child(8){
+    background-color: rgba(179, 114, 152, 0.411);
+}
+div:nth-child(9){
+    background-color: rgba(111, 151, 145, 0.404);
+}
+}
