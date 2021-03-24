@@ -59,9 +59,9 @@ div:nth-child(9){
   div:nth-child(9){
       background-color: rgba(40, 75, 70, 0.404);
   }
-}
+} 
 
-@media ( max-width:992px) {
+@media ( max-width:992px) {      
   div:nth-child(1){
     background-color: rgba(99, 86, 86, 0.411);
 }
